@@ -10,7 +10,7 @@ import tkfinder
 import config
 
 prefix = '§'
-description = 'The premier Tekken 7 Frame bot, made by Baikonur#4927'
+description = 'The premier Tekken 7 Frame bot, made by Julian Pamajewon'
 bot = commands.Bot(command_prefix=prefix, description=description)
 
 # Dict for searching special move types
@@ -168,7 +168,7 @@ import tkfinder
 import config
 
 prefix = '§'
-description = 'The premier Tekken 7 Frame bot, made by Baikonur#4927'
+description = 'The premier Tekken 7 Frame bot, made by Julian Pamajewon'
 bot = commands.Bot(command_prefix=prefix, description=description)
 
 # Dict for searching special move types
