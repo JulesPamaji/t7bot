@@ -1,5 +1,4 @@
-[
-    {
+[{
         "name": "akuma",
         "proper_name": "Akuma",
         "local_json": "akuma.json",
@@ -77,7 +76,7 @@
         "portrait": "https://i.imgur.com/rporala.jpg"
     },
     {
-        "name": "eliza", 
+        "name": "eliza",
         "proper_name": "Eliza",
         "local_json": "eliza.json",
         "online_webpage": "http://rbnorway.org/eliza-t7-frames/",
@@ -146,7 +145,7 @@
         "online_webpage": "http://rbnorway.org/jin-t7-frames",
         "portrait": "https://i.imgur.com/xat3qAS.jpg"
     },
-    { 
+    {
         "name": "josie",
         "proper_name": "Josie",
         "local_json": "josie.json",
@@ -204,7 +203,7 @@
     },
     {
         "name": "law",
-        "proper_name": "Law", 
+        "proper_name": "Law",
         "local_json": "law.json",
         "online_webpage": "http://rbnorway.org/law-t7-frames",
         "portrait": "https://i.imgur.com/NWNEbMv.jpg"
@@ -237,7 +236,13 @@
         "online_webpage": "http://rbnorway.org/leroy-t7-frames",
         "portrait": "https://i.imgur.com/HxAKr6v.jpg"
     },
- 
+    {
+        "name": "lidia",
+        "proper_name": "Lidia",
+        "local_json": "lidia.json",
+        "online_webpage": "",
+        "portrait": ""
+    },
     {
         "name": "lili",
         "proper_name": "Lili",
@@ -260,7 +265,7 @@
         "portrait": "https://i.imgur.com/aFYcBdu.jpg"
     },
     {
-        "name": "master_raven", 
+        "name": "master_raven",
         "proper_name": "Master Raven",
         "local_json": "master_raven.json",
         "online_webpage": "http://rbnorway.org/master-raven-t7-frames/",
